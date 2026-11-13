@@ -4,7 +4,7 @@ Analysis scripts for the Grid Learning Task (GLT) and Mnemonic Similarity Task (
 
 ## Data
 
-Please download the data files from XXX and organize them as below.
+Please download the data files (note on 11/13/2026; The PsychArchives link will be updated in the next few days.) and organize them as below.
 
 ```
 OA-github/
